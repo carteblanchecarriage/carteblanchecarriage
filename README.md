@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carteblanchecarriage
-- 👀 I’m interested in front end web development
+- 👀 I’m interested in front end web development (and web3 development)
 - 🌱 I’m currently learning to make websites
 - 💞️ I’m looking to collaborate on something cool once I have enough skills
 - 📫 How to reach me ...
