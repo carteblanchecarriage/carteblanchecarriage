@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end web development (and web3 development)
 - 🌱 I’m currently learning to make websites
 - 💞️ I’m looking to collaborate on something cool once I have enough skills
-- 📫 How to reach me ...
+- 📫 How to reach me at carteblanchecarriage@protonmail.com
 
 <!---
 carteblanchecarriage/carteblanchecarriage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
