@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @carteblanchecarriage
-- 👀 I’m interested in front end web development (and web3 development)
-- 🌱 I’m currently learning to make websites and web apps.
-- 💞️ I’m looking to collaborate as a junior web developer.
+- 👀 I do front end web development (with a focus on ethereum dapps)
 - 📫 Reach me at carteblanchecarriage@protonmail.com
 
 <!---
